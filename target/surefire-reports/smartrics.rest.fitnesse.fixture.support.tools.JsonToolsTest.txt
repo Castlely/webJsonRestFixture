@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: smartrics.rest.fitnesse.fixture.support.tools.JsonToolsTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 sec
